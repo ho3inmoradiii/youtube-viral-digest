@@ -1,0 +1,42 @@
+# Dynamic YouTube search topics for the Cursor cloud automation.
+# - If today's date (YYYY-MM-DD, Asia/Tehran) exists under schedule, use that list.
+# - Otherwise use default.
+# To change topics: tell the agent "فردا موضوعات: ..." and it will commit an update here.
+
+default:
+  - "Micro Frontends 2026"
+  - "Module Federation Webpack"
+  - "Microfrontend architecture React"
+  - "Single-SPA micro frontends"
+  - "web development news 2026"
+  - "frontend trends 2026"
+  - "CSS HTML JavaScript latest features"
+  - "Next.js React latest updates"
+  - "AI agents tips and tricks"
+  - "Cursor AI agent workflows"
+  - "LLM agent tools RAG tricks"
+  - "AI coding agents best practices"
+
+schedule:
+  "2026-10-02":
+    - "Micro Frontends production case study"
+    - "Module Federation vs iframe microfrontends"
+    - "Microfrontend shared state routing"
+    - "web platform APIs latest 2026"
+    - "Chrome DevTools frontend news"
+    - "TypeScript JavaScript new features"
+    - "browser performance web vitals 2026"
+    - "AI agents orchestration frameworks"
+    - "Claude Cursor Copilot agent tips"
+    - "prompt engineering tricks for coding agents"
+    - "autonomous AI agents demos"
+    - "MCP tools AI agent integrations"
+  "2026-10-03":
+    - "Micro Frontends 2026"
+    - "Module Federation Webpack"
+    - "frontend architecture trends"
+    - "web development news this week"
+    - "modern CSS features"
+    - "AI agent tips and tricks"
+    - "LLM coding agent workflows"
+    - "RAG agent tool calling patterns"
