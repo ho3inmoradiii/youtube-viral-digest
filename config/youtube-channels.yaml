@@ -3,8 +3,8 @@ channels:
     - "@Fireship"
     - "@t3dotgg"
     - "@ThePrimeagen"
-    - "@MatthewBerman"
-    - "@mckaywrigley"
+    - "@matthew_berman"
+    - "@realmckaywrigley"
     - "@aiDotEngineer"
   engineering:
     - "@jherr"
@@ -14,7 +14,7 @@ channels:
     - "@traversymedia"
     - "@mattpocockuk"
   craft:
-    - "@ContinuousDelivery"
+    - "@ModernSoftwareEngineeringYT"
     - "@CodeAesthetic"
 
 per_channel_limit: 5
