@@ -1,0 +1,22 @@
+channels:
+  ai_tools:
+    - "@Fireship"
+    - "@t3dotgg"
+    - "@ThePrimeagen"
+    - "@MatthewBerman"
+    - "@mckaywrigley"
+    - "@aiDotEngineer"
+  engineering:
+    - "@jherr"
+    - "@ChromeDevs"
+    - "@ByteByteGo"
+    - "@WebDevSimplified"
+    - "@traversymedia"
+    - "@mattpocockuk"
+  craft:
+    - "@ContinuousDelivery"
+    - "@CodeAesthetic"
+
+per_channel_limit: 5
+max_age_days: 14
+mode: both
